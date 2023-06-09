@@ -1,0 +1,35 @@
+.product-list-container {
+    margin-top: 30px;
+  }
+  
+  .product-list-container h2 {
+    color: #ff6600;
+  }
+  
+  .product-list-container table {
+    width: 100%;
+    border-collapse: collapse;
+    margin-top: 10px;
+  }
+  
+  .product-list-container th,
+  .product-list-container td {
+    padding: 10px;
+    text-align: left;
+    border-bottom: 1px solid #ff6600;
+  }
+  
+  .product-list-container th {
+    background-color: #ff6600;
+    font-weight: bold;
+  }
+  
+  .product-list-container td:first-child {
+    width: 50%;
+  }
+  
+  .product-list-container td:nth-child(2),
+  .product-list-container td:nth-child(3) {
+    width: 25%;
+  }
+  

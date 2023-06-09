@@ -1,0 +1,43 @@
+.add-product-form-container {
+    margin-top: 30px;
+  }
+  
+  .add-product-form-container h2 {
+    color: #ff6600;
+  }
+  
+  .add-product-form-container form {
+    display: flex;
+    flex-direction: column;
+    margin-top: 10px;
+  }
+  
+  .add-product-form-container .form-group {
+    margin-bottom: 10px;
+  }
+  
+  .add-product-form-container label {
+    font-weight: bold;
+    margin-bottom: 5px;
+  }
+  
+  .add-product-form-container input[type="text"],
+  .add-product-form-container input[type="number"] {
+    padding: 5px;
+    border: 1px solid #ff6600;
+    border-radius: 3px;
+  }
+  
+  .add-product-form-container button {
+    padding: 10px;
+    background-color: #ff6600;
+    color: #fff;
+    border: none;
+    border-radius: 3px;
+    cursor: pointer;
+  }
+  
+  .add-product-form-container button:hover {
+    background-color: #e55c00;
+  }
+  

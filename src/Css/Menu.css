@@ -1,0 +1,25 @@
+.menu-container {
+    background-color: #ff6600;
+    padding: 20px;
+    text-align: center;
+  }
+  
+  .menu-container h1 {
+    color: #333;
+  }
+  
+  .menu-container ul {
+    list-style-type: none;
+    padding: 0;
+    margin-top: 20px;
+  }
+  
+  .menu-container li {
+    margin-bottom: 10px;
+  }
+  
+  .menu-container li:hover {
+    cursor: pointer;
+    color: #ff6600;
+  }
+  
